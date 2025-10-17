@@ -1,5 +1,7 @@
 # V-Sido-Bilateral-ToPoArm-Kit デモプログラム
 
+![FuzzRoBo_V-Sido_Bilateral_ToPoArm_Kit](./img/FuzzRoBo_V-Sido_Bilateral_ToPoArm_Kit.png)
+
 ## 1. ToPoArm 動作概要
 
 - ボタンの押下によって通常モードとバイラテラルモードを切替
